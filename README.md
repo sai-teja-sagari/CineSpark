@@ -1,2 +1,2 @@
-# CineSpark
-This Project is based on content based movie recommendation system using Machine Learning(Major)
+# movie-recommender-system-tmdb-dataset
+A content based movie recommender system using cosine similarity
